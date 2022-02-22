@@ -7,4 +7,4 @@ export const INCREMENT_MISSTAKE = "ADD_MISSTAKE";
 export const RESET_GAME_AND_DATA = "RESET_GAME_AND_DATA";
 export const UPDATE_TIME = "UPDATE_TIME";
 export const PUSHING_GAME_DATA_STATUS = "PUSHING_GAME_DATA_STATUS";
-export const BASE_API_URL = "http://api.quotable.io/random";
+export const BASE_API_URL = "https://api.quotable.io/random";
